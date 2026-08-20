@@ -7,7 +7,7 @@ A responsive recipe discovery web app built with vanilla JavaScript, Tailwind CS
 
 
 
-📸 Demo(https:)
+📸 Demo(https:https://zahra-azizi-dev.github.io/recipes/)
 
 
 
